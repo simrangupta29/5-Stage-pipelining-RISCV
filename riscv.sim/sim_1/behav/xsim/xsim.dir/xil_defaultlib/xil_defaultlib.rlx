@@ -1,0 +1,24 @@
+0.7
+2020.2
+Nov  8 2024
+22:36:57
+D:/RISCV-DESIGN/riscv/riscv.sim/sim_1/behav/xsim/glbl.v,1724786425,verilog,,,,glbl,,,,,,,,
+D:/RISCV-DESIGN/riscv/riscv.srcs/sim_1/new/pipeline_top_tb.v,1757532735,verilog,,,,tb,,,,,,,,
+D:/RISCV-DESIGN/riscv/riscv.srcs/sources_1/new/ALU.v,1757513140,verilog,,D:/RISCV-DESIGN/riscv/riscv.srcs/sources_1/new/ALU_Decoder.v,,ALU,,,,,,,,
+D:/RISCV-DESIGN/riscv/riscv.srcs/sources_1/new/ALU_Decoder.v,1757532287,verilog,,D:/RISCV-DESIGN/riscv/riscv.srcs/sources_1/new/Data_memory.v,,ALU_Decoder,,,,,,,,
+D:/RISCV-DESIGN/riscv/riscv.srcs/sources_1/new/Data_memory.v,1757532322,verilog,,D:/RISCV-DESIGN/riscv/riscv.srcs/sources_1/new/Execute_cycle.v,,Data_Memory,,,,,,,,
+D:/RISCV-DESIGN/riscv/riscv.srcs/sources_1/new/Execute_cycle.v,1757512780,verilog,,D:/RISCV-DESIGN/riscv/riscv.srcs/sources_1/new/Extender.v,,execute_cycle,,,,,,,,
+D:/RISCV-DESIGN/riscv/riscv.srcs/sources_1/new/Extender.v,1757511999,verilog,,D:/RISCV-DESIGN/riscv/riscv.srcs/sources_1/new/Hazard_unit.v,,Sign_Extend,,,,,,,,
+D:/RISCV-DESIGN/riscv/riscv.srcs/sources_1/new/Hazard_unit.v,1757532644,verilog,,D:/RISCV-DESIGN/riscv/riscv.srcs/sources_1/new/Instruction_memory.v,,hazard_unit,,,,,,,,
+D:/RISCV-DESIGN/riscv/riscv.srcs/sources_1/new/Instruction_memory.v,1757363998,verilog,,D:/RISCV-DESIGN/riscv/riscv.srcs/sources_1/new/MUX.v,,Instruction_Memory,,,,,,,,
+D:/RISCV-DESIGN/riscv/riscv.srcs/sources_1/new/MUX.v,1757361161,verilog,,D:/RISCV-DESIGN/riscv/riscv.srcs/sources_1/new/Main_Decoder.v,,Mux;Mux_3_by_1,,,,,,,,
+D:/RISCV-DESIGN/riscv/riscv.srcs/sources_1/new/Main_Decoder.v,1757532348,verilog,,D:/RISCV-DESIGN/riscv/riscv.srcs/sources_1/new/PC_ADDER.v,,Main_Decoder,,,,,,,,
+D:/RISCV-DESIGN/riscv/riscv.srcs/sources_1/new/PC_ADDER.v,1757361245,verilog,,D:/RISCV-DESIGN/riscv/riscv.srcs/sources_1/new/Pipeline_top.v,,PC_Adder,,,,,,,,
+D:/RISCV-DESIGN/riscv/riscv.srcs/sources_1/new/Pipeline_top.v,1757532581,verilog,,D:/RISCV-DESIGN/riscv/riscv.srcs/sources_1/new/Program_counter.v,,Pipeline_top,,,,,,,,
+D:/RISCV-DESIGN/riscv/riscv.srcs/sources_1/new/Program_counter.v,1757361187,verilog,,D:/RISCV-DESIGN/riscv/riscv.srcs/sources_1/new/Register_file.v,,PC_Module,,,,,,,,
+D:/RISCV-DESIGN/riscv/riscv.srcs/sources_1/new/Register_file.v,1757511906,verilog,,D:/RISCV-DESIGN/riscv/riscv.srcs/sources_1/new/Writeback_cycle.v,,Register_File,,,,,,,,
+D:/RISCV-DESIGN/riscv/riscv.srcs/sources_1/new/Writeback_cycle.v,1757532425,verilog,,D:/RISCV-DESIGN/riscv/riscv.srcs/sources_1/new/control_unit.v,,writeback_cycle,,,,,,,,
+D:/RISCV-DESIGN/riscv/riscv.srcs/sources_1/new/control_unit.v,1757511819,verilog,,D:/RISCV-DESIGN/riscv/riscv.srcs/sources_1/new/decode_cycle.v,,Control_Unit_Top,,,,,,,,
+D:/RISCV-DESIGN/riscv/riscv.srcs/sources_1/new/decode_cycle.v,1757512192,verilog,,D:/RISCV-DESIGN/riscv/riscv.srcs/sources_1/new/fetch.v,,decode_cycle,,,,,,,,
+D:/RISCV-DESIGN/riscv/riscv.srcs/sources_1/new/fetch.v,1757362421,verilog,,D:/RISCV-DESIGN/riscv/riscv.srcs/sources_1/new/memory_cycle.v,,fetch_cycle,,,,,,,,
+D:/RISCV-DESIGN/riscv/riscv.srcs/sources_1/new/memory_cycle.v,1757532389,verilog,,D:/RISCV-DESIGN/riscv/riscv.srcs/sim_1/new/pipeline_top_tb.v,,memory_cycle,,,,,,,,
