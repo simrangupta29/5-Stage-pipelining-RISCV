@@ -1,4 +1,4 @@
-RISC-V Pipeline Core 📌
+RISC-V Pipeline Core <br>
 
 📌 Overview
 This project implements a pipelined RISC-V processor architecture, breaking down the single-cycle processor into five pipeline stages. The design allows multiple instructions to execute simultaneously—one per stage—improving performance and achieving higher clock frequency.
